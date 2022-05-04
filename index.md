@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### KPI Regional KPIs
 
-Click here....https://strydomwarren.github.io/KPI_test/Name.html
+Click here....https://strydomwarren.github.io/KPI_test/Index.md/Name.html
 
 ### Jekyll Themes
 
